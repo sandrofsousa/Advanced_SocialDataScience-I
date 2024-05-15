@@ -1,2 +1,3 @@
-# Advanced_SocialDataScience-I
-Course material for ASDK20004U Advanced Social Data Science I at Copenhagen University (2023)
+# Advanced Social Data Science I
+
+Course material containing slides and exercises of the Social Network Analysis part of Advanced Social Data Science I (ASDK20004U) at University of Copenhagen (2023)
